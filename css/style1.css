@@ -75,7 +75,7 @@ table tr:nth-child(1){
     font-size: 35px;
     background-color: white;
     margin-top: -49px;
-    padding-bottom: 177px;
+    margin-bottom: 269px;
 }
 .logomomo{
     width: 50px;
@@ -108,15 +108,16 @@ li a{
 li a:hover{
     background-color: pink;
 }
-.qrchuyenkhoan{
-    padding-top: 77px;
-}
 .session{
 
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
 }
-
+.row{
+    background-color: white;
+    margin-top: -50px;
+    padding-bottom: 63px;
+}
 .session p{
     margin: 35px;
 }
