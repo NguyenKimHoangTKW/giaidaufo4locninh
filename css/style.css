@@ -117,8 +117,34 @@ li a:hover{
     font-family: 'Times New Roman', Times, serif;
 }
 
+#session-1{
+    font-size: 20px;
+    background-color: #eee;
+    margin-top: 29px;
+    border-radius: 15px 15px 15px 15px;
+    width: 95%;
+}
+#session-1 p{
+    margin: 15px;
+}
+#session{
+    background-color: white;
+    border: 1px solid black;
+    border-radius:15px 15px 15px 15px;
+    margin-bottom: 35px;
+    
+}
+#session #session-title{
+    text-align: center;
+    font-size: 25px;
+    color: red;
+    
+}
 .session p{
     margin: 35px;
+}
+#session-1 h3{
+    text-align: center;
 }
 .footer{
     text-align: center;
